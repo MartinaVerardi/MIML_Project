@@ -20,3 +20,8 @@ Code for MIML project
     • Column Format: A single column named “target”
     • Row Format: Your predictions (0 or 1) with the same number of rows and in the same order as the test
     set.
+
+# Watch me
+
+    https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction/discussion/183623
+    https://datahack.analyticsvidhya.com/contest/janatahack-cross-sell-prediction/?utm_source=auto-email#LeaderBoard
